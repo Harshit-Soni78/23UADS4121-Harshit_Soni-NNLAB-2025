@@ -2,12 +2,13 @@
 
 ## Lab Experiments
 
-1. WAP to implement a Perceptron using numpy in Python. 2. WAP to implement the Gradient Descent algorithm for perceptron learning using numpy and Pandas.
-2. WAP to evaluate the performance of perceptron with linear and sigmoid activation functions for a regression and binary classification problem respectively.
-3. WAP to train and evaluate a three-layer neural network using Tensor flow library to classify MNIST handwritten digits dataset.
-4. WAP to train and evaluate a convolutional neural network using Keras Library to classify MNIST fashion dataset. Demonstrate the effect of filter size, regularization, batch size and optimization algorithm on model performance.
-5. WAP to train and evaluate a Recurrent Neural Network to predict the next value in a sample time series dataset.
-6. WAP to retrain a pretrained imagenet model to classify a medical image dataset.
+1. WAP to implement a Perceptron using numpy in Python.
+2. WAP to implement the Gradient Descent algorithm for perceptron learning using numpy and Pandas.
+3. WAP to evaluate the performance of perceptron with linear and sigmoid activation functions for a regression and binary classification problem respectively.
+4. WAP to train and evaluate a three-layer neural network using Tensor flow library to classify MNIST handwritten digits dataset.
+5. WAP to train and evaluate a convolutional neural network using Keras Library to classify MNIST fashion dataset. Demonstrate the effect of filter size, regularization, batch size and optimization algorithm on model performance.
+6. WAP to train and evaluate a Recurrent Neural Network to predict the next value in a sample time series dataset.
+7. WAP to retrain a pretrained imagenet model to classify a medical image dataset.
 
 ## Mini Projects
 
