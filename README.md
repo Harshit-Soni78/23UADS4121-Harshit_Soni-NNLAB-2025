@@ -70,3 +70,15 @@
 | g.    | Bonus Evaluation                    | 19 Mar 2025 |
 | h.    | Model Chart Review                  | 05 Apr 2025 |
 | i.    | Model Chart Submission              | 12 Apr 2025 |
+
+## Folder Description
+
+### Self-Study
+
+- This folder contains all the codes that I have writen while self-studying.
+- This also contains README.md file so that everyone can understand from where I have studied, how I studied.
+
+### Mini Project
+
+- This folder contains all the codes, folders, datasets that I have created while making the project.
+- This also contains README.md file so that everyone can understand from where I have studied, how I studied.
