@@ -75,7 +75,7 @@
 
 ### Exp Folders
 
-- These folders contains all the codes that I have writen while doing the Lab Experiments
+- These folders contains all the codes that I have writen while doing the Lab Experiments.
 - These could contains dataset files/folders and code files.
 
 ### Self-Study
