@@ -36,7 +36,7 @@ Build a Video Dataset that contains short videos (max. 5 seconds) of students pe
 ---
 
 <details open>
-  <summary  style="font-size: 1.5em; font-weight: bold;">I have got the Mini Project 2</summary>
+  <summary  style="font-size: 2em; font-weight: bold;">I have got the Mini Project 2</summary>
 
 Create an Android App that captures the readings from motion sensors (accelerometer and gyroscope) in an android phone. Build a dataset using this application that contains the motion characteristics of an average person driving a two-wheeler. Build a LSTM classifier that takes any 3 second sample as input and classifies it as Kankar Road, Bitumen Road, Concrete Road, Single Speed Breaker and Multiple Speed Breakers.
 
