@@ -36,7 +36,7 @@ Build a Video Dataset that contains short videos (max. 5 seconds) of students pe
 ---
 
 <details open>
-  <summary  style="font-size: 2em; font-weight: bold;">I have got the Mini Project 2</summary>
+  <summary  style="font-size: 32px; font-weight: bold;">I have got the Mini Project 2</summary>
 
 Create an Android App that captures the readings from motion sensors (accelerometer and gyroscope) in an android phone. Build a dataset using this application that contains the motion characteristics of an average person driving a two-wheeler. Build a LSTM classifier that takes any 3 second sample as input and classifies it as Kankar Road, Bitumen Road, Concrete Road, Single Speed Breaker and Multiple Speed Breakers.
 
@@ -47,7 +47,7 @@ Create an Android App that captures the readings from motion sensors (accelerome
 # Steps to do
 
 <details>
-  <summary  style="font-size: 1.3em; font-weight: bold;">1. Dataset Strategy</summary>
+  <summary  style="font-size: 20px; font-weight: bold;">1. Dataset Strategy</summary>
 
 **_App Development with MIT App Inventor to Capture Sensor Data_**
 
@@ -68,7 +68,7 @@ We can use MIT App Inventor for this part.
 ---
 
 <details>
-  <summary  style="font-size: 1.3em; font-weight: bold;">2. Data Collection & Compilation</summary>
+  <summary  style="font-size: 20px; font-weight: bold;">2. Data Collection & Compilation</summary>
 
 **Prepare Your Environment:**
 
@@ -85,48 +85,48 @@ We can use MIT App Inventor for this part.
 ---
 
 <details>
-  <summary  style="font-size: 1.3em; font-weight: bold;">3. Dataset Labelling and Pre-processing</summary>
+  <summary  style="font-size: 20px; font-weight: bold;">3. Dataset Labelling and Pre-processing</summary>
 Comming Soon
 </details>
 
 ---
 
 <details>
-  <summary  style="font-size: 1.3em; font-weight: bold;">4. Model Architecture</summary>
+  <summary  style="font-size: 20px; font-weight: bold;">4. Model Architecture</summary>
 Comming Soon
 </details>
 
 ---
 
 <details>
-  <summary  style="font-size: 1.3em; font-weight: bold;">5. Model Training</summary>
+  <summary  style="font-size: 20px; font-weight: bold;">5. Model Training</summary>
 Comming Soon
 </details>
 
 ---
 
 <details>
-  <summary  style="font-size: 1.3em; font-weight: bold;">6. Model Optimization & Comparison</summary>
+  <summary  style="font-size: 20px; font-weight: bold;">6. Model Optimization & Comparison</summary>
 Comming Soon
 </details>
 
 ---
 
 <details>
-  <summary  style="font-size: 1.3em; font-weight: bold;">7. Bonus Evaluation</summary>
+  <summary  style="font-size: 20px; font-weight: bold;">7. Bonus Evaluation</summary>
 Comming Soon
 </details>
 
 ---
 
 <details>
-  <summary  style="font-size: 1.3em; font-weight: bold;">8. Model Chart Review</summary>
+  <summary  style="font-size: 20px; font-weight: bold;">8. Model Chart Review</summary>
 Comming Soon
 </details>
 
 ---
 
 <details>
-  <summary  style="font-size: 1.3em; font-weight: bold;">9. Model Chart Submission</summary>
+  <summary  style="font-size: 20px; font-weight: bold;">9. Model Chart Submission</summary>
 Comming Soon
 </details>
