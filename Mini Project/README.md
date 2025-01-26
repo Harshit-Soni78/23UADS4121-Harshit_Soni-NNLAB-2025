@@ -1,7 +1,7 @@
 # Mini Projects
 
 <details>
-  <summary  style="font-weight: bold">Mini Project 1</summary>
+  <summary>**Mini Project 1**</summary>
 
 Build an image dataset that contains grayscale images of leaves of various plants/trees growing in MBMU campus. Perform necessary preprocessing steps to make the dataset uniform and ready for training. Train a deep autoencoder network that can reproduce any random image of a leaf from MBMU campus.
 
