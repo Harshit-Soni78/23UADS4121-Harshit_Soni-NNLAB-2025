@@ -18,4 +18,6 @@ We can use MIT App Inventor for this part.
 
 ## In this repo, I have uploaded every iteration I have made to make the final app
 
-<img src="Mobile View.png" height="720px"/>
+<img src="Frontend Block Diagram.png" />
+<img src="Block Diagram 4.png"/>
+<img src="Mobile View.png" height="600px"/>
