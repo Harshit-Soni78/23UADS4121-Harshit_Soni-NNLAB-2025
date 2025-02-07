@@ -61,17 +61,26 @@
 
 ### Minor Project
 
+| S. No. | Experiment Title                                        | Submission Deadline |
+| :----: | ------------------------------------------------------- | :-----------------: |
+|  8\.   | Mini Project                                            |                     |
+|        | 8.1 Dataset Submission                                  |     20.02.2025      |
+|        | 8.2 Model Submission                                    |     17.03.2025      |
+|        | 8.3 Bonus Submission                                    |     22.03.2025      |
+|        | 8.4 Poster Submission                                   |     07.04.2025      |
+|        | Total Marks                                             |                     |
+
 | S no. | Work                                | Date        |
 | ----- | ----------------------------------- | ----------- |
-| a.    | Dataset Strategy                    | 18 Jan 2025 |
-| b.    | Dataset Collection & Compilation    | 25 Jan 2025 |
-| c.    | Dataset Labelling and Preprocessing | 08 Feb 2025 |
-| d.    | Model Architecture                  | 22 Feb 2025 |
-| e.    | Model Training                      | 08 Mar 2025 |
-| f.    | Model Optimization & Comparison     | 22 Mar 2025 |
-| g.    | Bonus Evaluation                    | 19 Mar 2025 |
-| h.    | Model Chart Review                  | 05 Apr 2025 |
-| i.    | Model Chart Submission              | 12 Apr 2025 |
+| a\.    | Dataset Strategy                    | 18 Jan 2025 |
+| b\.    | Dataset Collection & Compilation    | 25 Jan 2025 |
+| c\.    | Dataset Labelling and Preprocessing | 08 Feb 2025 |
+| d\.    | Model Architecture                  | 22 Feb 2025 |
+| e\.    | Model Training                      | 08 Mar 2025 |
+| f\.    | Model Optimization & Comparison     | 22 Mar 2025 |
+| g\.    | Bonus Evaluation                    | 19 Mar 2025 |
+| h\.    | Model Chart Review                  | 05 Apr 2025 |
+| i\.    | Model Chart Submission              | 12 Apr 2025 |
 
 ## Folder Description
 
