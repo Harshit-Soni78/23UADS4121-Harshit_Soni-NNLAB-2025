@@ -1,3 +1,5 @@
+# Results of all the Variations
+
 | ActivationFunction | HiddenSize | LearningRate | BatchSize | NumberOfEpochs | TestAccuracy | ExecutionTime | LossCurve | AccuracyCurve | ConfusionMatrix |
 |------------------|------------|------------|---------|--------------|------------|-------------|-----------|-------------|---------------|
 | relu | (100 and 100) | 0.001 | 10 | 50 | 0.963702380657196 | 1221.1444935798645 | ![Loss](results\relu_H100_100_LR0.001_B10_E50\loss_curve.png) | ![Accuracy](results\relu_H100_100_LR0.001_B10_E50\accuracy_curve.png) | ![Confusion](results\relu_H100_100_LR0.001_B10_E50\confusion_matrix.png) |

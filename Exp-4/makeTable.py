@@ -37,6 +37,7 @@ results_df.to_csv(output_csv, index=False)
 
 # Generate Markdown Table
 with open(output_md, "w") as md:
+    md.write("# Results of all the Variations\n\n")
     md.write("| ActivationFunction | HiddenSize | LearningRate | BatchSize | NumberOfEpochs | TestAccuracy | ExecutionTime | LossCurve | AccuracyCurve | ConfusionMatrix |\n")
     md.write("|------------------|------------|------------|---------|--------------|------------|-------------|-----------|-------------|---------------|\n")
     for _, row in results_df.iterrows():
