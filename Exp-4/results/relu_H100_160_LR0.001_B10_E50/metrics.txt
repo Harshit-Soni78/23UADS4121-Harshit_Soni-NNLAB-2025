@@ -1,0 +1,2 @@
+ActivationFunction,HiddenSize,LearningRate,BatchSize,NunberOfEpochs,Test Accuracy,Execution Time(in sec)
+relu,(100 and 160),0.001,10,50,0.9660019278526306,1157.8503274917603

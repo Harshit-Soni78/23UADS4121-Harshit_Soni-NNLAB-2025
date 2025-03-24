@@ -1,0 +1,6 @@
+Hyperparameter variations:
+Activation functions: dict_keys(['relu'])
+Hidden layer sizes: [(160, 100), (100, 160), (100, 100), (100, 60), (60, 60)]
+Learning rates: [0.01]
+Batch sizes: [10]
+Epochs: [50]
