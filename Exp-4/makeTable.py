@@ -7,7 +7,7 @@ from fpdf import FPDF
 results_dir = "results"
 output_csv = "results_summary.csv"
 output_pdf = "results_summary.pdf"
-output_md = "results_summary.md"
+output_md = "README.md"
 
 data = []
 
