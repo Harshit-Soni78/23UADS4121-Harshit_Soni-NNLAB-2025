@@ -40,7 +40,7 @@ with open(output_md, "w") as md:
     md.write("| ActivationFunction | HiddenSize | LearningRate | BatchSize | NumberOfEpochs | TestAccuracy | ExecutionTime | LossCurve | AccuracyCurve | ConfusionMatrix |\n")
     md.write("|------------------|------------|------------|---------|--------------|------------|-------------|-----------|-------------|---------------|\n")
     for _, row in results_df.iterrows():
-        md.write(f"| {row['ActivationFunction']} | {row['HiddenSize']} | {row['LearningRate']} | {row['BatchSize']} | {row['NunberOfEpochs']} | {row['Test Accuracy']} | {row['Execution Time(in sec)']} | ![Loss](./{row['LossCurve']}) | ![Accuracy](./{row['AccuracyCurve']}) | ![Confusion](./{row['ConfusionMatrix']}) |\n")
+        md.write(f"| {row['ActivationFunction']} | {row['HiddenSize']} | {row['LearningRate']} | {row['BatchSize']} | {row['NunberOfEpochs']} | {row['Test Accuracy']} | {row['Execution Time(in sec)']} | ![Loss]({row['LossCurve']}) | ![Accuracy]({row['AccuracyCurve']}) | ![Confusion]({row['ConfusionMatrix']}) |\n")
 
 # # Generate PDF Report
 # pdf = FPDF()
