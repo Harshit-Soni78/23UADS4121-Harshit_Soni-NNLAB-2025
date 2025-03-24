@@ -32,8 +32,8 @@ for folder in os.listdir(results_dir):
 # Create DataFrame
 results_df = pd.DataFrame(data)
 
-# # Save to CSV
-# results_df.to_csv(output_csv, index=False)
+# Save to CSV
+results_df.to_csv(output_csv, index=False)
 
 # Generate Markdown Table
 with open(output_md, "w") as md:
